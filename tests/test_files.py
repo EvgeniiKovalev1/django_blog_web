@@ -8,3 +8,4 @@ def test_project_folder_in_place(root_dir, project_dirname):
         f'Не найден файл `{manage_rpath}`. '
         'Убедитесь, что структура проекта соответствует заданию.'
     )
+# 
